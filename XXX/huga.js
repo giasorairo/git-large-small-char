@@ -1,2 +1,2 @@
-console.log('huga')
-console.log('hoga')
+console.log('huga');
+console.log('huga');
